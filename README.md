@@ -1,7 +1,7 @@
 Hi, I’m @darmijo15!
 I'm a recent grad from Washington State University, where I earned a Bachelor's Degree in Management Information Systems.
 I’m working to start a career in Web Development/Software Engineering.
-I'm currently learning JavaScript as part of the Odin Project curriculumn.
+I'm currently learning JavaScript through Scrimba and working on small Javascript projects along the way.
 
 <!---
 darmijo15/darmijo15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
